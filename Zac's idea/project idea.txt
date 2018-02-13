@@ -1,0 +1,41 @@
+STORY
+=====
+
+intro & first night
+-----
+
+The Colorless people were pushed out of their mountianous country many years ago and now inhabit a barren, desert-ish wasteland to the south called Hyavere. Their culture revolves around these metal monuments, which are of great historical importance to them. Creating the alloy used in these monuments is considered a sacred practice, and is passed down through the generations. So, only the Colorless know how to make this alloy; however, it sells at very high prices in the magical community for its special properties that amplify one's magical strength. The magical community is known to all Colorless, but kept secret from others.
+
+There's a village in northeastern Hyavere that borders the state of Serebania. Serebania has a trade deal with Hyavere that they will safely remove deteriorating monuments in exchange for the scrap metal. Many Colorless are not fond of this deal, but the village elder (who is incidentally a magic user) approves of it.
+
+The story follows the granddaughter of the village elder with the magical power of electricty - one of 10 different types of magic. She goes out at night and trains by killing monsters (which only appear to magic users). One night, she hears what sounds like an explosion, then heads over in that direction to see a monument falling apart with a Serebanian vehicle leaving the scene.
+
+
+second night
+-----
+
+At dusk, the protagonist spots the Serebanians leaving their camp with weapons to go to the monument fields. At this point she's sure the Serebanians are setting off explosions on the monuments to swindle the Colorless out of their metal. She goes out, telling her grandfather it's to kill monsters as usual, but in reality she's planning to spy on the Serebanians. Before she leaves the village, a mysterious foreign woman stops her and teaches her a technique with Electric magic.
+
+She makes it to the leader of the Serebanian group and catches him off guard, forcing him to confess at knifepoint. The man claims that his troops are out looking for whoever was blowing up the monuments as well, and acknowledges that their actions would look suspicious. He offers to let the protagonist stay and watch them, but she refuses, threatening to kill him if he doesn't tell the truth. Fortunately, an explosion is heard at this time. The protagonist lets the Serebanian leader go and she and the troops run to the explosion site to once again see a Serebanian vehicle driving off, which seems weird because the Serebanians only have one vehicle, which they used to drive here, and it's still where they left it.
+
+
+third night & ending
+-----
+
+The protagonist once again tells her grandfather she's going out to hunt monsters, but she instead watches the road for Serebanian vehicles. Once again, the foreign woman shows up and teaches her another new Electric magic technique. The protagonist eventually spots a Serebanian car on the road and pursues towards the monument fields. She works her way up to the monument where the vehicle is parked and finds her grandfather blowing up the monument with Thermal magic.
+
+She makes her presence known, and he reluctantly explains his situation. He's doing this to satisfy a shadowy character - a woman named Petra (a magic user with more powerful abilities than most), who has sworn to kill his granddaughter, the main character, if he refuses. He knew that if he was caught, whoever caught him would try to tell him to stop, which would lead to his granddaughter being killed, so he used a Serebanian vehicle so people wouldn't think it was him.
+
+At this point, Petra shows up (turns out she's the foreign woman who taught the main character new techniques) and tries to kill the protagonist, as she said she would. (The village elder might sacrifice himself here to hold off Petra, I haven't decided yet.) The Serebanians show up and stop her, forcing her to retreat, and warn the village about her. She isn't seen again and there are no more explosions, but the trade deal remains in place.
+
+
+
+
+GAMEPLAY
+=====
+
+The gameplay is stealth-based, sneaking up on monsters or guards to incapacitate them. If you're both touching the same piece of metal, the enemy can be electrocuted. Stepping on a metal floor will make noise and attract attention.
+
+There are three levels, between which the story progresses. Cutscenes can be in the form of 2D images with a dialogue box. Petra will give you a new attack before the second and third levels. One of these is the ability to electrocute metal and those standing on it (as described above), and the other is undecided.
+
+A file saving mechanic should not be necessary; the game is (theoretically) fairly short and is meant to be beaten in one sitting.
